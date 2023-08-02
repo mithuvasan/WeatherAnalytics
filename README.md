@@ -1,6 +1,8 @@
 # WeatherAnalytics
 WeatherCLI is a Python command-line weather app fetching London hourly forecast data from OpenWeatherMap API. Users can get temperature, wind speed, or pressure for a specific date. Simple and useful!
 
+<img src="https://github.com/mithuvasan/WeatherAnalytics/assets/109497436/5e739cdc-b8a4-403a-8793-b941cfe23c5a" "width=700" "height=419">
+
 ## How to Run
 
 1. Clone the repository to your local machine:
