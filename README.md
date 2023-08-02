@@ -3,35 +3,31 @@ WeatherCLI is a Python command-line weather app fetching London hourly forecast 
 
 <img src="https://github.com/mithuvasan/WeatherAnalytics/assets/109497436/5e739cdc-b8a4-403a-8793-b941cfe23c5a" width="600" height="300">
 
-## How to Run
+# Weather App
+This is a simple weather app that fetches weather data from the OpenWeatherMap API. The app allows you to get the temperature, wind speed, and pressure for a specific date.
 
-1. Clone the repository to your local machine:
+# Run the code
+To run the code, you will need to have Python installed on your computer. Once you have Python installed, you can run the code by following these steps:
 
-```bash
-git clone https://github.com/mithuvasan/WeatherAnalytics
-```
+1. Clone the GitHub repo.
+2. Navigate to the directory where you cloned the repo.
+3. Open a terminal window.
+4. Run the following command:
+```python main.py```
+This will run the code and print the weather data.
 
-2. Navigate to the project directory:
+# Example
+Here is an example of the output of the code:
 
-```bash
-cd WeatherCLI
-```
+```Temperature on 2023-08-02: 294.15 °K
+Wind Speed on 2023-08-02: 3.6 m/s
+Pressure on 2023-08-02: 1013 hPa```
 
-3. Install the required dependencies (if not already installed):
+# Dependencies
+The code requires the following dependencies:
 
-```bash
-pip install requests
-```
+1. Python 3
+2. requests
 
-4. Run the weather application:
-
-```bash
-python weather_app.py
-```
-
-5. Follow the on-screen prompts to select the desired weather information (temperature, wind speed, or pressure) and enter the date (in the format YYYY-MM-DD) for which you want to fetch the data.
-
-6. The application will retrieve and display the corresponding weather information for the chosen date.
-```
-
-Feel free to customize the instructions based on your specific application structure and requirements. Once you've added the instructions to the `README.md` file, make sure to commit and push the changes to your GitHub repository to update the README for others to see when they visit your repository's page.
+# License
+The code is licensed under the MIT License.
