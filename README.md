@@ -13,13 +13,16 @@ To run the code, you will need to have Python installed on your computer. Once y
 2. Navigate to the directory where you cloned the repo.
 3. Open a terminal window.
 4. Run the following command:
-```python main.py```
+```
+python main.py
+```
 This will run the code and print the weather data.
 
 # Example
 Here is an example of the output of the code:
 
-```Temperature on 2023-08-02: 294.15 °K
+```
+Temperature on 2023-08-02: 294.15 °K
 Wind Speed on 2023-08-02: 3.6 m/s
 Pressure on 2023-08-02: 1013 hPa
 ```
