@@ -8,7 +8,7 @@ WeatherCLI is a Python command-line weather app fetching London hourly forecast 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mithuvasan/WeatherAnalytics
 ```
 
 2. Navigate to the project directory:
